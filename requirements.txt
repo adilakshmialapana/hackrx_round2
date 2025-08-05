@@ -6,7 +6,8 @@ requests==2.31.0
 langchain==0.1.0
 langchain-google-genai==0.0.6
 langchain-community==0.0.10
-faiss-cpu @ https://github.com/facebookresearch/faiss/releases/download/v1.7.4/faiss_cpu-1.7.4-cp311-cp311-manylinux2014_x86_64.whl
+faiss-cpu==1.7.4
+
 
 
 
