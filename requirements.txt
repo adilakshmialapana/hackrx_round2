@@ -7,5 +7,5 @@ langchain==0.1.0
 langchain-google-genai==0.0.6
 langchain-community==0.0.10
 faiss-cpu==1.7.4
-PyMuPDF==1.23.8
+PyMuPDF==1.22.5
 python-multipart==0.0.6 
